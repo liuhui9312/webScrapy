@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: www.x23us.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:55.0) Gecko/20100101 Firefox/55.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: Hm_lvt_534ede4b11a35873e104d2b5040935e0=1505699859; Hm_lpvt_534ede4b11a35873e104d2b5040935e0=1505699878; targetEncodingwww23uscom=2
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Mon, 18 Sep 2017 01:53:01 GMT
+
