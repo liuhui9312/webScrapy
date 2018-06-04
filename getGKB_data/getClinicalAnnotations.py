@@ -10,8 +10,8 @@ import json
 import pandas as pd
 import time
 
-USERID = "watching_blue_star@163.com"
-PASSWORD = "liuhui9312gkl"
+USERID = "##########3@163.com"
+PASSWORD = "#########"
 LOGIN_URL = "https://api.pharmgkb.org/v1/auth/oauthSignIn"
 # heads = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) '
 #                        'AppleWebKit/537.36 (KHTML, like Gecko) '
